@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi there! I’m Jinalee
 
-<!--
-**Jinaaaaks/Jinaaaaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science student at the Informatics Institute of Technology (IIT), currently in my 1st year. I’m passionate about learning to code and building projects that help me grow as a developer.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+Expanding my understanding of web development using JavaScript.
+Creating small projects in Python to enhance my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+Python, JavaScript, and Java
+Building basic projects to strengthen my coding skills
+Looking forward to diving into full-stack development (even though I’m just starting and eager to learn!)
+
+🤔 I’m looking for help with:
+Full-stack development (React, Node.js, Express, MongoDB)
+Building a professional portfolio of web and software development projects
+
+🔍 What Interests Me:
+Web development and how front and backend technologies work together.
+Python-based problem-solving.
+Exploring full-stack development and creating useful, scalable applications.
+
+🌱 Fun Fact: I’m always exploring new ways to improve my coding skills and love experimenting with new tech ideas in my free time.
+
+📫 Let’s Connect:
+jinaleesubasinghe16@gmail.com
