@@ -1,6 +1,6 @@
 👋 Hi there! I’m Jinalee
 
-🎓 I’m a Computer Science student at the Informatics Institute of Technology (IIT), currently in my 1st year. I’m passionate about learning to code and building projects that help me grow as a developer.
+🎓 I’m a Computer Science student at the Informatics Institute of Technology (IIT), currently in my 2st year. I’m passionate about learning to code and building projects that help me grow as a developer.
 
 🔭 I’m currently working on:
 Expanding my understanding of web development using JavaScript.
