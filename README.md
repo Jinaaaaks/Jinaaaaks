@@ -1,4 +1,4 @@
-🌱 hi, i’m jinalee  
+🌱 hi, i’m Jinalee  
 
 computer science student  
 learning full stack development  
