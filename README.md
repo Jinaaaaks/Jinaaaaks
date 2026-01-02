@@ -1,6 +1,6 @@
 ## 🌱 hi, i’m jinalee
 
-computer science student  
+studying CS - 2nd yr uni student 
 learning full stack development  
 building things slowly and properly  
 
