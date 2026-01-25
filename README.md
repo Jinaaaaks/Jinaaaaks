@@ -1,28 +1,10 @@
-## 🌱 hi, i’m jinalee
+Hi, I’m Jinalee 👋
+I’m a Computer Science student who loves building clean, thoughtful projects and learning how things actually work under the hood. I’m into full stack development, problem solving, and turning ideas into real, usable apps. I enjoy learning step by step, experimenting, and improving through real projects. This space is where I build, break, fix, and grow.
 
-studying CS - 2nd yr uni student 
-learning full stack development  
-building things slowly and properly  
+Currently exploring
+• Full stack development
+• Java, JavaScript, Python
+• Databases and backend logic
+• UI that feels calm, intentional, and human
 
----
-
-## 💻 tech i use
-- java  
-- javascript  
-- python  
-- html, css  
-- react, node.js  
-
-## ✨ currently
-- learning backend + APIs  
-- building small real-world projects  
-- improving my fundamentals  
-
-## 📁 projects
-- personal finance tracker  
-- focus & productivity app  
-- practice full stack projects  
-
----
-
-⋆ learning one commit at a time ⋆
+Always learning. Always building. One commit at a time ✨
